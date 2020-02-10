@@ -14,7 +14,7 @@ Ajax
 grab 20 gif animates from GIPHY API and present them on the DOME. When the user clicks one of them it will become static, non-animated gif images. If clicked again it will go back to an animated state.
 The user can also add new selection by writing in the input. Click on the button to see gifs!
 <br>
-Welcome to [GifTastic](https://bgitana.github.io/TriviaGame/). Enjoy!
+Welcome to [GifTastic](https://bgitana.github.io/GifTastic/). Enjoy!
 
 ### Prerequisites
 
