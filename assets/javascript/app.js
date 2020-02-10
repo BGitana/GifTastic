@@ -40,7 +40,7 @@ $(document).on("click", ".searchButton", function() {
   var type = $(this).data("type");
   // console.log(type);
   // make an API call for each button
-  // insert you API keys from "https://developers.giphy.com/dashboard/?create=true"
+  // insert your API keys from "https://developers.giphy.com/dashboard/?create=true"
   var queryURL =
     "https://api.giphy.com/v1/gifs/search?q=" +
     type +
