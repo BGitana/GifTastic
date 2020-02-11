@@ -1,13 +1,6 @@
 # GifTastic **:gear:**
 Ajax, jQuery, JavaScript, HTML, CSS, Bootstrap
 
-HTML
-CSS
-Bootstrap
-JavaScript
-jQuery
-Ajax
-
 ### Overview
 
 **GifTastic** is a dynamic web page that generates gif animates of human emotions. When the user clicks on a desired button the App will 
